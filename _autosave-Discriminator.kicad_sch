@@ -6784,7 +6784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2026ffe3-5be8-4c1d-b1e0-717cc25a8e66")
-		(property "Reference" "R?"
+		(property "Reference" "R14"
 			(at 105.41 161.29 90)
 			(effects
 				(font
@@ -6836,7 +6836,7 @@
 		(instances
 			(project "Discriminator"
 				(path "/98ea3513-a87d-444b-a2da-a8556e3bcd2d"
-					(reference "R?")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10135,7 +10135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "755b9490-7c1c-414c-a68a-9368cf5e2994")
-		(property "Reference" "R?"
+		(property "Reference" "R13"
 			(at 104.14 170.1799 0)
 			(effects
 				(font
@@ -10189,7 +10189,7 @@
 		(instances
 			(project "Discriminator"
 				(path "/98ea3513-a87d-444b-a2da-a8556e3bcd2d"
-					(reference "R?")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -11553,7 +11553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9dd9669f-60f1-4a98-82cc-942e728027f6")
-		(property "Reference" "R?"
+		(property "Reference" "R5"
 			(at 97.79 162.2312 90)
 			(effects
 				(font
@@ -11605,7 +11605,7 @@
 		(instances
 			(project "Discriminator"
 				(path "/98ea3513-a87d-444b-a2da-a8556e3bcd2d"
-					(reference "R?")
+					(reference "R5")
 					(unit 1)
 				)
 			)
