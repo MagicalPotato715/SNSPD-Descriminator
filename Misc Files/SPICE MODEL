@@ -1,0 +1,81 @@
+*
+
+.subckt Discriminator
+
+
+C7 Net-_C7-Pad1_ GND 330p
+L1 +5V Net-_C2-Pad2_ 100n
+L2 Net-_L2-Pad2_ Net-_C2-Pad1_ 620n
+R1 Net-_C7-Pad1_ Net-_L2-Pad2_ 150
+U2 __U2
+L3 +5V Net-_C8-Pad1_ 100n
+C3 +5V GND 100p
+C4 +5V GND 0.01u
+C5 +5V GND 0.1u
+J7 __J7
+J2 __J2
+J5 __J5
+J6 __J6
+J4 __J4
+R5 +3.3VA Net-_R13-Pad2_ 5.6k
+C18 +3.3VA GNDA 0.1u
+J8 __J8
+R13 Net-_J8-Pin_3_ Net-_R13-Pad2_ 1k
+C16 /V_r GNDA 0.1u
+R3 /V_r Net-_U5-VOUT_ 1k
+C17 +3.3VA GNDA 1u
+RM-065-201 __RM-065-201
+R14 Net-_R14-Pad1_ Net-_R13-Pad2_ 1k
+U5 __U5
+R4 /A0 +3.3VA 4.7k
+C19 Net-_U5-VREFIO_ GNDA 1u
+C20 Net-_U5-VREFIO_ GNDA 0.1u
+J_Power1 __J_Power1
+C6 +5V GND 10u
+C2 Net-_C2-Pad1_ Net-_C2-Pad2_ 0.01u
+TP2 __TP2
+U1 __U1
+C1 Net-_C1-Pad1_ Net-_J3-In_ 0.01u
+J3 __J3
+TP1 __TP1
+D_3 Net-_D_3-K_ Net-_D_3-A_ LED
+D_5 Net-_D_5-K_ Net-_A1-_SDO_D11_ LED
+D_4 Net-_D_4-K_ Net-_D_4-A_ LED
+D_2 Net-_D_2-K_ Net-_D_2-A_ LED
+A1 __A1
+R11 Net-_D_5-K_ GNDA 2k
+D_1 Net-_D_1-K_ Net-_D_1-A_ LED
+D_6 Net-_D_6-K_ Net-_A1-A10_ LED
+R12 Net-_D_6-K_ GNDA 2k
+R7 Net-_D_1-K_ GNDA 2k
+R8 Net-_D_2-K_ GNDA 2k
+R6 Net-_D_Life5-K_ GND 4.7k
+D_Life3.3 Net-_D_Life3.3-K_ +3.3V LED
+D_Life5 Net-_D_Life5-K_ +5V LED
+R2 Net-_D_Life3.3-K_ GND 2k
+J1 __J1
+TP8 __TP8
+TP7 __TP7
+TP4 __TP4
+R9 Net-_D_3-K_ GNDA 2k
+R10 Net-_D_4-K_ GNDA 2k
+TP5 __TP5
+C14 +3.3V GND 0.1u
+Rterm1 Net-_U_Comparator1-+_ Net-_C12-Pad1_ 50
+C15 +3.3V GND 1u
+R_a1 +3.3V Net-_C12-Pad1_ 5.6k
+TP9 __TP9
+R_s1 /Pulse Net-_R_s1-Pad1_ 50
+R_Hyst1 GND Net-_U_Comparator1-_LE_ 80k
+TP6 __TP6
+U_Comparator1 __U_Comparator1
+C9 +5V GND 330p
+C8 Net-_C8-Pad1_ Net-_U_Comparator1-+_ 0.01u
+TP3 __TP3
+C10 +5V GND 0.33u
+C11 +5V GND 10u
+C13 Net-_C12-Pad1_ GND 1u
+C12 Net-_C12-Pad1_ GND 0.1u
+R_b1 Net-_C12-Pad1_ GND 1k
+
+.ends
