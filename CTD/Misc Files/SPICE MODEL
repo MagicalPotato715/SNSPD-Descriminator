@@ -1,0 +1,41 @@
+*
+
+.subckt Discriminator
+
+
+C7 Net-_C7-Pad1_ GND 330p
+TP2 __TP2
+U_Comparator1 __U_Comparator1
+C15 +3.3V GND 1u
+R_Hyst1 GND Net-_U_Comparator1-_LE_ 80k
+TP9 __TP9
+L3 +5V Net-_C8-Pad1_ 100n
+L1 +5V Net-_C2-Pad2_ 100n
+C11 +5V GND 10u
+C1 Net-_C1-Pad1_ Net-_J3-In_ 0.01u
+U1 __U1
+R_s1 /Pulse Net-_R_s1-Pad1_ 50
+J3 __J3
+TP1 __TP1
+C6 +5V GND 10u
+C5 +5V GND 0.1u
+C3 +5V GND 100p
+C4 +5V GND 0.01u
+Rterm1 Net-_U_Comparator1-+_ Net-_C12-Pad1_ 50
+C14 +3.3V GND 0.1u
+C12 Net-_C12-Pad1_ GND 0.1u
+TP5 __TP5
+R1 Net-_C7-Pad1_ Net-_L2-Pad2_ 150
+U2 __U2
+C10 +5V GND 0.33u
+C9 +5V GND 330p
+C8 Net-_C8-Pad1_ Net-_U_Comparator1-+_ 0.01u
+TP3 __TP3
+C13 Net-_C12-Pad1_ GND 1u
+C2 Net-_C2-Pad1_ Net-_C2-Pad2_ 0.01u
+L2 Net-_L2-Pad2_ Net-_C2-Pad1_ 620n
+TP6 __TP6
+R_b1 Net-_C12-Pad1_ GND 1k
+R_a1 +3.3V Net-_C12-Pad1_ 5.6k
+
+.ends
