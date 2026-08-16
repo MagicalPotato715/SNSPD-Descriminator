@@ -1,0 +1,15 @@
+Reference,Qty,Value,Footprint,Manufacturer,MPN,Mouser PN,Datasheet
+"J_Teensy1,J_Teensy2",2,Conn_01x24_Socket,Connector_PinSocket_2.54mm:PinSocket_1x24_P2.54mm_Vertical,Samtec,"SSQ-124-01-G-S
+","200-SSQ12401GS
+",https://www.sullinscorp.com/
+"C16,C18,C20",3,0.1uf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,187-CL10B104KB8NNNC,~
+"C17,C19",2,1uf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A105KO8NNNC,187-CL10A105KO8NNNC,~
+"D_1,D_2,D_3,D_4,D_5,D_6",6,LED,LED_SMD:LED_0603_1608Metric,Lite-On,LTST-C190KRKT,LTST-C190KRKT,~
+"J2,J4,J5,J6,J7,J8",6,Conn_01x05_Socket,Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,JST,B5B-XH-A,306-B5B-XH-A-GU,~
+J_Power1,1,Conn_Coaxial,Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,Samtec,SMA-J-P-H-ST-EM1,SMA-J-P-H-ST-EM1,~
+"R3,R13,R14",3,1k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-071KL,603-RC0603FR-071KL,~
+R4,1,4.7k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-074K7L,RC0603FR-074K7L,~
+R5,1,5.6k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-075K6L,603-RC0603FR-075K6L,~
+"R7,R8,R9,R10,R11,R12",6,2k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-072KL,RC0603FR-072KL,~
+3386F-1-201LF,1,200ohms,Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical,Bourns,3386F-1-201LF,3386F-1-201LF,~
+U5,1,DAC60501ZDGSR,DAC60501ZDGSR:DGS10_TEX,Texas Instruments,DAC60501ZDGSR,595-DAC60501ZDGSR,https://www.ti.com/lit/gpn/dac60501
