@@ -1,0 +1,24 @@
+Reference,Qty,Value,Footprint,Manufacturer,MPN,Mouser PN,Datasheet
+U_Comparator1,1,LTC6752HSC6-1#TRPBF,Package_TO_SOT_SMD:SOT-363_SC-70-6,Analog Devices,LTC6752HSC6-1#TRPBF,LTC6752HSC6-1#TRMPBF,https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+U2,1,PGA-103+,Package_TO_SOT_SMD:SOT-89-3,Mini-Circuits,PGA-103+,512-PGA-103+,https://www.minicircuits.com/pdfs/PGA-103+.pdf
+U1,1,PSA4-5043+,PSA4-5043+:MMM1362_MNC,Mini-Circuits,PSA4-5043+,712-PSA4-5043+,https://www.minicircuits.com/pdfs/PSA4-5043+.pdf
+R_Hyst1,1,80k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-0780KL,603-RC0603FR-0780KL,~
+R_b1,1,1k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-071KL,603-RC0603FR-071KL,~
+R_a1,1,5.6k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-075K6L,603-RC0603FR-075K6L,~
+"Rterm1,R_s1",2,50,Resistor_SMD:R_0402_1005Metric,Yageo,RC0402FR-0750RL,603-RC0402FR-0750RL,~
+R1,1,150,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-07150RL,603-RC0603FR-07150RL,~
+R2,1,2k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-072KL,RC0603FR-072KL,~
+R6,1,4.7k,Resistor_SMD:R_0603_1608Metric,Yageo,RC0603FR-074K7L,RC0603FR-074K7L,~
+L2,1,620nH,Inductor_SMD:L_0603_1608Metric,Murata,LQW18AN62NJ00D,81-LQW18AN62NJ00D,~
+"L1,L3",2,100nh,TCCH+:GU1604_MNC,Mini-Circuits,TCCH-80+,139-TCCH-80,https://www.minicircuits.com/pdfs/TCCH-80+.pdf
+J3,1,Conn_Coaxial,Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,Samtec,SMA-J-P-H-ST-EM1,713-SMA-J-P-H-ST-EM1,~
+"C13,C15",2,1uf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10A105KO8NNNC,187-CL10A105KO8NNNC,~
+C10,1,0.33uf,Capacitor_SMD:C_0603_1608Metric,Yageo,CC0603KRX7R9BB334,603-CC0603KRX7R9BB334,~
+C9,1,330pf,Capacitor_SMD:C_0402_1005Metric,Samsung Electro-Mechanics,CL05C331JB5NNNC,187-CL05C331JB5NNNC,~
+C7,1,330pf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10C331JB8NNNC,187-CL10C331JB8NNNC,~
+"C6,C11",2,10uf,Capacitor_SMD:C_0805_2012Metric,Samsung Electro-Mechanics,CL21A106KOQNNNG,187-CL21A106KAQNNNE,~
+"C5,C12,C14",3,0.1uf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,187-CL10B104KB8NNNC,~
+C3,1,100pf,Capacitor_SMD:C_0402_1005Metric,Samsung Electro-Mechanics,CL05C101JB5NNNC,187-CL05C101JB5NNNC,~
+"C1,C2,C4,C8",4,0.01uf,Capacitor_SMD:C_0402_1005Metric,Samsung Electro-Mechanics,CL05B103KB5NNNC,187-CL05B103KB5NNNC,~
+J1,1,Conn_01x05_Socket,Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,JST,B5B-XH-A,306-B5B-XH-A-GU,~
+"D_Life3.3, D_Life5",2,LED,LED_SMD:LED_0603_1608Metric,Lite-On,LTST-C190KRKT,LTST-C190KRKT,~
