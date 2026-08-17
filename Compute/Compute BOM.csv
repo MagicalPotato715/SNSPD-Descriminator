@@ -1,5 +1,5 @@
 Reference,Qty,Value,Footprint,Manufacturer,MPN,Mouser PN,Datasheet
-"J_Teensy1,J_Teensy2",2,Conn_01x24_Socket,Connector_PinSocket_2.54mm:PinSocket_1x24_P2.54mm_Vertical,Samtec,"SSQ-124-01-G-S
+A1,2,Conn_01x24_Socket,Connector_PinSocket_2.54mm:PinSocket_1x24_P2.54mm_Vertical,Samtec,"SSQ-124-01-G-S
 ","200-SSQ12401GS
 ",https://www.sullinscorp.com/
 "C16,C18,C20",3,0.1uf,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,187-CL10B104KB8NNNC,~

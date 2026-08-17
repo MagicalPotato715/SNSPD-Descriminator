@@ -1,4 +1,4 @@
-25667552813898779
+25679803959874769
 16TQC47MYFD
 CAP_16TQC47MYFD
 
@@ -95990,6 +95990,13 @@ TCCH-80+
 0
 4
 4
+TEENSY_4.1
+TEENSY_LONG_EXT
+Teensy 3.5/4.1 Footprint Extended<br><a href="https://www.pjrc.com/store/teensy35.html">Teensy 3.5</a><br><a href="https://www.pjrc.com/store/teensy41.html">Teensy 4.1</a><br><a href="https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf">Headers</a>
+
+0
+50
+50
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -102850,6 +102857,48 @@ PCA9534ARGVR
 0
 21
 18
+mouse-bite.pretty-main
+Mouse-bite-icon
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-1mm-3mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-2.54mm-4.66mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-2mm-4mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-3mm-6mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-5mm-10mm
+
+
+0
+0
+0
 untitled folder
 SSD1306_0.96_Oled
 

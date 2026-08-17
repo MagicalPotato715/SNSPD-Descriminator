@@ -6055,7 +6055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 257.302 33.02 90)
 			(effects
 				(font
@@ -6123,7 +6123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 215.9 19.05 0)
 			(effects
 				(font
@@ -6190,7 +6190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 233.68 33.02 0)
 			(effects
 				(font
@@ -6668,7 +6668,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 49.53 58.42 0)
 			(effects
 				(font
@@ -6735,7 +6735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 266.7 112.268 90)
 			(effects
 				(font
@@ -7352,7 +7352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 85.852 90)
 			(effects
 				(font
@@ -7625,7 +7625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 128.27 58.42 0)
 			(effects
 				(font
@@ -7959,7 +7959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 90.932 90)
 			(effects
 				(font
@@ -9122,7 +9122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e1a4801-6608-4c78-8027-495c88fc03c3")
-		(property "Reference" "RM-065-201"
+		(property "Reference" "3386F-1-201LF1"
 			(at 113.03 171.45 90)
 			(effects
 				(font
@@ -9138,7 +9138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical"
 			(at 113.03 167.64 0)
 			(effects
 				(font
@@ -9177,7 +9177,7 @@
 		(instances
 			(project ""
 				(path "/98ea3513-a87d-444b-a2da-a8556e3bcd2d"
-					(reference "RM-065-201")
+					(reference "3386F-1-201LF1")
 					(unit 1)
 				)
 			)
@@ -9278,7 +9278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 80.772 90)
 			(effects
 				(font
@@ -11572,7 +11572,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 74.93 58.42 0)
 			(effects
 				(font
@@ -11773,7 +11773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 75.692 90)
 			(effects
 				(font
@@ -11990,7 +11990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 233.68 29.21 0)
 			(effects
 				(font
@@ -12057,7 +12057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 267.462 33.02 90)
 			(effects
 				(font
@@ -13856,7 +13856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 134.62 35.56 0)
 			(effects
 				(font
@@ -14062,7 +14062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 70.612 90)
 			(effects
 				(font
@@ -15074,7 +15074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 144.78 63.5 0)
 			(effects
 				(font
@@ -16057,7 +16057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 168.91 60.96 0)
 			(effects
 				(font
